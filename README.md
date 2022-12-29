@@ -21,3 +21,10 @@ Although New York City and Des Moines, Iowa are not identical cities, there are 
 * Customers tend to use Citibikes for longer durations than subscribers
 * In NYC, Citibikes are popular among males - but this trend may not be perfectly replicated in a smaller, safer city
 * Males and females use Citibikes on the same days, suggesting stable and consistent community-wide need
+
+---
+## Images
+
+![Checkout times for all users](/Resources/checkout_times.png)
+*Checkout Times for All Users: 99% of the bikes are used for less than 1 hour at a time. While some bikes are used for longer than an hour, most Citibikes are only checked out for 20 minutes or less. This is one of the points in the Tableau story.*
+
