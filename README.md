@@ -8,13 +8,16 @@ Citibike is a program offered by Citi Bank and Lyft ridesharing company in New Y
 These visualizations will show data for New York City but will ideally present a good case for starting a bikesharing company in Des Moines. Creating a story will add a complete, meaningful, easy to read, and professional feel to the Citibike data, which will help our presentation to major stakeholders. 
 
 ---
-# View the Project
+
+# View the Project Results
 <a href="https://public.tableau.com/views/CitibikeChallenge_16714130885560/CitibikeReview-Story?:language=en-US&:display_count=n&:origin=viz_share_link">Link to Tableau Public</a>
 
 ---
 
-# Results
-This is where the results will go 
-
-## Summary
-This is where the summary will go 
+# Summary
+Although New York City and Des Moines, Iowa are not identical cities, there are several takeaways we can declare from this project. Citibike has found success in NYC by offering bikes at a low cost and at several readily available access points in the city. Des Moines could see similar success if several points are considered:
+* Citibikes are popular for users that are looking for a ride for less than an hour - this could help workers in Des Moines
+* Citibike in NYC has loyal subscribers who use the service consistently and often
+* Customers tend to use Citibikes for longer durations than subscribers
+* In NYC, Citibikes are popular among males - but this trend may not be perfectly replicated in a smaller, safer city
+* Males and females use Citibikes on the same days, suggesting stable and consistent community-wide need
